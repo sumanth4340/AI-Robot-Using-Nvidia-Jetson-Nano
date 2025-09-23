@@ -1,5 +1,5 @@
 # AI-Robot-Using-Nvidia-Jetson-Nano
-This project is done on Nvidia Jetson nano Developer Kit 4GB EMMC chip - Eagle 101/J101 Development board
+This project is developed on Nvidia Jetson nano Developer Kit 4GB EMMC chip - Eagle 101/J101 Development board
 
 <img width="245" height="490" alt="image" src="https://github.com/user-attachments/assets/fe8dd2c2-b185-4bf8-a441-8183d21ade2a" />
 
