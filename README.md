@@ -52,6 +52,14 @@ https://github.com/TemugeB/python_stereo_camera_calibrate
 Train the model using the Depth vision with Isaac SIM or pre trained depth SLAM Models
 
 # ISAAC SIM
+![WhatsApp Image 2025-10-03 at 16 26 24_88e81c37](https://github.com/user-attachments/assets/be835063-62a6-4f4f-ab45-0e510d3dd255)
+![WhatsApp Image 2025-10-03 at 16 26 25_d2c8fa1f](https://github.com/user-attachments/assets/eb6c512a-b72a-4645-a873-5432e9a4803f)
+![WhatsApp Image 2025-10-03 at 16 26 27_5edd77a1](https://github.com/user-attachments/assets/a6ce1c98-971f-43e2-bccf-c37bb5bb5fad)
+
+# Action Graph's:
+![WhatsApp Image 2025-10-03 at 16 26 28_784a8b43](https://github.com/user-attachments/assets/18f647c9-147e-49c1-91f5-afe3b108e9fb)
+![WhatsApp Image 2025-10-03 at 16 26 29_9891bf53](https://github.com/user-attachments/assets/df25145c-4cb2-44d6-9156-a8af2b27b916)
+
 ![WhatsApp Image 2025-09-23 at 23 24 48_1dd06ee9](https://github.com/user-attachments/assets/404f2a30-e300-46ee-8904-8278477324e8)
 
 
